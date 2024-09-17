@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Some of my socials
-(test)[www.google.com]
+Some of my socials :
+- [Try Hack Me](https://tryhackme.com/p/plncb)
+- [LinkedIn](https://www.linkedin.com/in/brice-p-89268914b/)
