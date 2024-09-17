@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 Some of my socials :
 - [Try Hack Me](https://tryhackme.com/p/plncb)
 - [LinkedIn](https://www.linkedin.com/in/brice-p-89268914b/)
+- [Twitter](https://x.com/plncb_)
